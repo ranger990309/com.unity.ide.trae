@@ -1,8 +1,4 @@
-# How to install
-<br>
-- Unity->Window->Package Manager<br>
-- Click "+" left corner<br>
-- Add package from git URL<br>
-- Insert <code>https://github.com/boxqkrtm/com.unity.ide.cursor.git</code><br>
-- Add<br>
-- Done
+Unity->Window->Package Manager
+Click "+" left corner
+Add package from git URL
+Insert `https://github.com/ranger990309/com.unity.ide.trae.git`
